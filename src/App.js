@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="frame">
-        <h1 className="frame__title">Glass Layer</h1>
+        <h1 className="frame__title">Glass Navigation</h1>
         <div className="frame__links"></div>
         <div className="frame__nav">
           <a
